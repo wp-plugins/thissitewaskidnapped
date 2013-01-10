@@ -1,0 +1,8 @@
+body,
+table,
+.wp-admin,
+img,
+.wp-admin,.no-js,.index-php,.admin-bar,.admin-color-fresh, .no-customize-support{
+display:none !important;
+}
+
