@@ -1,4 +1,4 @@
-=== vslideCyclePlugin ===
+=== Thissitewaskidnapped===
 
 Contributors: viniciusgomes
 
